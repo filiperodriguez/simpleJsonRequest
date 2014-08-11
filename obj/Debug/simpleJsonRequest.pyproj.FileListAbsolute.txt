@@ -1,0 +1,15 @@
+C:\vsProjects\simpleJsonRequest\simpleJsonRequest\bin\Microsoft.PythonTools.WebRole.dll
+C:\vsProjects\simpleJsonRequest\simpleJsonRequest\obj\Debug\attach_server.py
+C:\vsProjects\simpleJsonRequest\simpleJsonRequest\obj\Debug\visualstudio_py_debugger.py
+C:\vsProjects\simpleJsonRequest\simpleJsonRequest\obj\Debug\visualstudio_py_repl.py
+C:\vsProjects\simpleJsonRequest\simpleJsonRequest\obj\Debug\visualstudio_py_util.py
+C:\vsProjects\simpleJsonRequest\simpleJsonRequest\obj\Debug\__init__.py
+C:\vsProjects\simpleJsonRequest\simpleJsonRequest\obj\Debug\__main__.py
+C:\vsProjects\simpleJsonRequest\simpleJsonRequest\bin\AzureSetup.cfg
+C:\vsProjects\simpleJsonRequest\simpleJsonRequest\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\vsProjects\simpleJsonRequest\simpleJsonRequest\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\vsProjects\simpleJsonRequest\simpleJsonRequest\bin\wfastcgi.py
+C:\vsProjects\simpleJsonRequest\simpleJsonRequest\obj\Debug\deployment-updated-orig-prefix.txt
+C:\vsProjects\simpleJsonRequest\simpleJsonRequest\ptvs_virtualenv_proxy.py
+C:\vsProjects\simpleJsonRequest\simpleJsonRequest\obj\Debug\web.config
+C:\vsProjects\simpleJsonRequest\simpleJsonRequest\obj\Debug\web.debug.config
